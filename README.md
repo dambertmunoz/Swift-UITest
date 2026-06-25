@@ -37,3 +37,9 @@ Select the `UITest` scheme and run tests from Xcode.
 - Keep test methods focused on scenario intent and assertions.
 - Prefer accessibility identifiers for stable UI tests when extending this sample.
 - If moving this to a modern codebase, Swift Package Manager would be a cleaner dependency path than Carthage.
+
+## Author
+
+Dambert Muñoz
+
+Email: [dmsantillana2705@gmail.com](mailto:dmsantillana2705@gmail.com)
